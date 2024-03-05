@@ -32,8 +32,8 @@ body {
     /* Set height */
     height: 40px;
     /* Set transform origin to center */
-    /* Rotate the pencil */
     transform-origin: center;
+    /* Rotate the pencil */
     transform: rotate(135deg);
     /* Apply animation */
     animation: pencil-animation 10s infinite;
