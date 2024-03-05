@@ -15,7 +15,7 @@ body {
     justify-content: center;
     /* Set minimum height to full viewport height */
     min-height: 100vh;
-    /* Set background color */
+    /* Set background gradient */
     background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
     /* Set text color */
     color: #20a6ff;
