@@ -1,5 +1,4 @@
 # Animated Pencil Loader
-
 This repository contains HTML and CSS code for an animated pencil loader, designed to be used as a loading animation for web pages. The loader consists of a pencil icon that animates in a loop, giving users a visual cue that the page is still loading.
 
 ## Preview
